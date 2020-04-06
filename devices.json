@@ -1,0 +1,19 @@
+[
+   {
+      "name":"MI A3",
+      "brand":"Xiaomi",
+      "codename":"laurel_sprout",
+      "maintainer_name":"Naveen Kumar",
+      "maintainer_url":"https://github.com/thephotogenicbug",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 665",
+            "ram":"4/6GB LPDDR4X",
+         }
+      ]
+   },
+ ]
