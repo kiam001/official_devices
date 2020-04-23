@@ -1,6 +1,6 @@
 [
    {
-      "name":"MI A3",
+      "name":"Xiaomi Mi A3",
       "brand":"Xiaomi",
       "codename":"laurel_sprout",
       "maintainer_name":"Naveen Kumar",
@@ -13,6 +13,25 @@
          {
             "cpu":"Snapdragon 665",
             "ram":"4/6GB LPDDR4X",
+         }
+      ]
+   },
+ ]
+[
+   {
+      "name":"Xiaomi Redmi 5",
+      "brand":"Xiaomi",
+      "codename":"rosy",
+      "maintainer_name":"PratyakshM",
+      "maintainer_url":"https://github.com/pratyakshm",
+      "xda_thread":"https://forum.xda-developers.com/redmi-5/development/official-atomos-rom-xiaomi-redmi-5-rosy-t4086565",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 450",
+            "ram":"2/3/4GB LPDD3",
          }
       ]
    },
