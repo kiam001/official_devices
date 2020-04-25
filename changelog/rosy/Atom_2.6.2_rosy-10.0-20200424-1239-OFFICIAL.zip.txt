@@ -1,0 +1,3 @@
+Updated AtomOS to latest sources
+Introduced RGB Gradient picker
+Introducing System Update app (OTA)
