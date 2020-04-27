@@ -1,0 +1,10 @@
+ - Reintroducing Face Unlock
+ - Lot of source updates
+ - RGB Gradient has been removed due to redundancy
+ - VoLTE icon styles and customization are here
+ - OTA update is here!
+ - Added Data switch, bluetooth panel from QS tiles
+ - Added option to display  data indicator icon
+ - Implemented Android 11 style notifications
+ - Removed network traffic indicator temporarily
+ - AppLock removed since redundant
