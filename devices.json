@@ -36,3 +36,21 @@
       ]
    },
  ]
+   {
+      "name":"Xiaomi Redmi Note 7 Pro",
+      "brand":"Xiaomi",
+      "codename":"Violet",
+      "maintainer_name":"Mir Yasin Ali JB",
+      "maintainer_url":"https://github.com/princejb786",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-atom-os-princ87-t4086581",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 675",
+            "ram":"4/6GB LPDDR4X",
+         }
+      ]
+   },
+ ]
