@@ -72,3 +72,21 @@
       ]
    },
  ]
+   {
+      "name":"Lenovo Zuk Z2_Plus",
+      "brand":"zuk",
+      "codename":"z2_plus",
+      "maintainer_name":"thedenomparkour",
+      "maintainer_url":"https://github.com/denomparkour",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 820",
+            "ram":"3/4GB LPDDR3",
+         }
+      ]
+   },
+ ]
