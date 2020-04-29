@@ -54,3 +54,21 @@
       ]
    },
  ]
+   {
+      "name":"Xiaomi Redmi Note 5 Pro/AI",
+      "brand":"Xiaomi",
+      "codename":"Whyred",
+      "maintainer_name":"James Phạm",
+      "maintainer_url":"https://github.com/james2811",
+      "xda_thread":"",
+      "supported_version":[
+         "ten",
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 636",
+            "ram":"4/6GB LPDDR4X",
+         }
+      ]
+   },
+ ]
