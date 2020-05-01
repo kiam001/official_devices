@@ -7,17 +7,15 @@
       "maintainer_url":"https://github.com/thephotogenicbug",
       "xda_thread":"",
       "supported_version":[
-         "ten",
+         "ten"
       ],
       "specs":[
          {
             "cpu":"Snapdragon 665",
-            "ram":"4/6GB LPDDR4X",
+            "ram":"4/6GB LPDDR4X"
          }
       ]
    },
- ]
-[
    {
       "name":"Xiaomi Redmi 5",
       "brand":"Xiaomi",
@@ -26,16 +24,15 @@
       "maintainer_url":"https://github.com/pratyakshm",
       "xda_thread":"https://forum.xda-developers.com/redmi-5/development/official-atomos-rom-xiaomi-redmi-5-rosy-t4086565",
       "supported_version":[
-         "ten",
+         "ten"
       ],
       "specs":[
          {
             "cpu":"Snapdragon 450",
-            "ram":"2/3/4GB LPDD3",
+            "ram":"2/3/4GB LPDD3"
          }
       ]
    },
- ]
    {
       "name":"Xiaomi Redmi Note 7 Pro",
       "brand":"Xiaomi",
@@ -44,16 +41,15 @@
       "maintainer_url":"https://github.com/princejb786",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-atom-os-princ87-t4086581",
       "supported_version":[
-         "ten",
+         "ten"
       ],
       "specs":[
          {
             "cpu":"Snapdragon 675",
-            "ram":"4/6GB LPDDR4X",
+            "ram":"4/6GB LPDDR4X"
          }
       ]
    },
- ]
    {
       "name":"Xiaomi Redmi Note 5 Pro/AI",
       "brand":"Xiaomi",
@@ -62,16 +58,15 @@
       "maintainer_url":"https://github.com/james2811",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-atom-os-v2-6-3-t4090419",
       "supported_version":[
-         "ten",
+         "ten"
       ],
       "specs":[
          {
             "cpu":"Snapdragon 636",
-            "ram":"4/6GB LPDDR4X",
+            "ram":"4/6GB LPDDR4X"
          }
       ]
    },
- ]
    {
       "name":"Lenovo Zuk Z2_Plus",
       "brand":"zuk",
@@ -80,13 +75,30 @@
       "maintainer_url":"https://github.com/denomparkour",
       "xda_thread":"",
       "supported_version":[
-         "ten",
+         "ten"
       ],
       "specs":[
          {
             "cpu":"Snapdragon 820",
-            "ram":"3/4GB LPDDR3",
+            "ram":"3/4GB LPDDR3"
          }
       ]
    },
+   {
+      "name":"Xiaomi Redmi Note 6 Pro",
+      "brand":"Xiaomi",
+      "codename":"tulip",
+      "maintainer_name":"Niteshkumar S",
+      "maintainer_url":"https://github.com/niteshkumar2000",
+      "xda_thread":"",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 636",
+            "ram":"4/6GB LPDDR4X"
+         }
+      ]
+   }
  ]
