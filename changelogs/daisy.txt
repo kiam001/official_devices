@@ -1,1 +1,11 @@
-* Test A/B OTA 
+* Kernel Update: 
+
+Loki kernel build 6/05/2020
+  -*CHANGELOG*-
+  
+- Upstream 4.9.222
+ 
+ --------------------
+
+ * daisy: Fixed bootloop bug (in some users)
+ 
