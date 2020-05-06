@@ -1,3 +1,21 @@
+[ {
+  	"name": "ASUS_X00TD",
+  	"brand": "asus",
+  	"codename": "X00T",
+  	"maintainer_name": "Prabhat774",
+  	"maintainer_url": "https://github.com/prabhat774",
+  	"supported_versions": [{
+  		"version_code": "ten",
+  		"version_name": "Ten",
+  		"xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-atomos-t4087089"
+  	}],
+  	"specs": [{
+  		"cpu": "Snapdragon 636",
+  		"board": "SDM660",
+  		"ram": "3/4/6GB LPDDR4X"
+  	}]
+  } ]
+
 [
    {
       "name":"Xiaomi Mi A3",
