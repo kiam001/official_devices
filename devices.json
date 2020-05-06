@@ -100,5 +100,22 @@
             "ram":"4/6GB LPDDR4X"
          }
       ]
+   },
+   {
+      "name":"Xiaomi Mi A2 Lite",
+      "brand":"Xiaomi",
+      "codename":"daisy",
+      "maintainer_name":"scarymen1325",
+      "maintainer_url":"https://github.com/scarymen1325",
+      "xda_thread":"",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"3/4GB LPDD3"
+         }
+      ]
    }
  ]
