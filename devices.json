@@ -135,5 +135,22 @@
             "ram":"3/4GB LPDD3"
          }
       ]
+   },
+   {
+      "name":"Xiaomi Redmi Note 4/4x",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "maintainer_name":"Saurav",
+      "maintainer_url":"https://t.me/u_dont_know_meh",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-atom-os-t4084415",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"2/3/4GB"
+         }
+      ]
    }
  ]
