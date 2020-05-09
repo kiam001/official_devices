@@ -1,11 +1,10 @@
-* Kernel Update: 
-
-Loki kernel build 6/05/2020
-  -*CHANGELOG*-
-  
-- Upstream 4.9.222
- 
- --------------------
-
- * daisy: Fixed bootloop bug (in some users)
+* Fixed fingerprint.
+* Used other device tree, kernel, and vendor files (thanks: https://github.com/mahajant99).
+* Change kernel (Loki kernel -> Kerminator).
+* I am very sorry for the inconvenience with the finger scanner.
+* NOTE: If you get any bugs after update, please do wipe data/factory reset.
+* -----
+* Thanks for using AtomOS!
+* Official community group: @atomosofficial
+* Official news channel: @atomosnews
  
