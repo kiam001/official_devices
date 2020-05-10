@@ -1,0 +1,17 @@
+Merged latest CAF tag LA.UM.8.6.r1-04200-89xx.0 into kernel 
+Minor memory improvements on build
+Added option to control vibration intensity in kernel 
+Merged May 2020 security patch 
+Fixed due location issues on non-Google apps 
+Re-enabled network traffic indicators (reworked) 
+Enabled display burn-in protection for Ambient Display 
+Enabled 1080p playback option for YouTube
+Added Android 10 Beta pill 
+Added lockscreen date and clock styles 
+Added custom font engine 
+Android 11 style notifications are now toggleable 
+Missing status-bar icons (during White mode) on QS bar is fixed 
+Fixed Screen recorder: Added OnePlus screen recorder
+Added battery light switch 
+Added QS header images
+Implemented new volume dialogs 
