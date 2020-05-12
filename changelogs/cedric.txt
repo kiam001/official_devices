@@ -1,0 +1,3 @@
+Massively optimizations and fixes to Lineage kernel (thanks to Telegram @OmegaPrimus)
+Rom Changes befor build date and time
+Sadly but the force black screen to lockscreen bug isnt fixed (we working on it)
