@@ -34,6 +34,24 @@
          }
       ]
    },
+    {
+	   
+      "name":"Xiaomi Redmi Note 8/8T",
+      "brand":"Xiaomi",
+      "codename":"ginkgo/willow",
+      "maintainer_name":"Billaids",
+      "maintainer_url":"https://github.com/Billaids",
+      "xda_thread":"",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 665",
+            "ram":"4/6GB LPDDR4X"
+         }
+      ]
+   },
    {
       "name":"Xiaomi Redmi 5",
       "brand":"Xiaomi",
