@@ -1,0 +1,9 @@
+* Change kernel (Kerminator -> Reborn)
+* Fixed FPC Fingerprint bug (CPU sometimes work on 100%)
+* Mics changes and improvement
+* NOTE: If you get any bugs after update, please do wipe data/factory reset.
+* -----
+* Thanks for using AtomOS!
+* Official community group: @atomosofficial
+* Official news channel: @atomosnews
+ 
