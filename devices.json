@@ -1,10 +1,29 @@
-[
+ [
    {
+
       "name":"Xiaomi Mi A3",
       "brand":"Xiaomi",
       "codename":"laurel_sprout",
       "maintainer_name":"Naveen Kumar",
       "maintainer_url":"https://github.com/thephotogenicbug",
+      "xda_thread":"",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 665",
+            "ram":"4/6GB LPDDR4X"
+         }
+      ]
+   },
+    {
+	   
+      "name":"Xiaomi Redmi Note 8/8T",
+      "brand":"Xiaomi",
+      "codename":"ginkgo/willow",
+      "maintainer_name":"Billaids",
+      "maintainer_url":"https://github.com/Billaids",
       "xda_thread":"",
       "supported_version":[
          "ten"
@@ -117,5 +136,23 @@
             "ram":"3/4GB LPDD3"
          }
       ]
+   },
+   {
+      "name":"Xiaomi Redmi Note 4/4x",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "maintainer_name":"Saurav",
+      "maintainer_url":"https://t.me/u_dont_know_meh",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-atom-os-t4084415",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 625",
+            "ram":"2/3/4GB"
+         }
+      ]
    }
  ]
+

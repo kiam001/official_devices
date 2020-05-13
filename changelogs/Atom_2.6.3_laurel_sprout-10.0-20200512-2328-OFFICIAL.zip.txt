@@ -1,0 +1,32 @@
+ Add new FOD pressed state icons
+ Update OP FOD icon from OnePlus 8 Pro
+ Wired/BT headset: make ringtone audio focus customizable
+ StitchImageUtility: Fix editor on multi user
+ QS header: Update and style edit strings
+ Drag Handle Rework
+ Blur behind powermenu
+ SystemUI: add qs powershare tile
+ Re enable slashes on qs tiles
+ Fix freeform window moving/resizing doesn't work
+ Use Panel intents for WiFi and NFC
+ Enable double tap to wake on doze by default
+ Use wireless charging animation for wired charging too
+ Adjust QS tile background and icon color
+ Introduce PackageManagerUtils class
+ SystemUI: add qs AOD tile
+ Fix battery light toggle on multiple users
+ Add fonts for customization and set Google Sans as default
+ Import background, user icon and system colors from Pixel
+ Import PixelConfigOverlay* GoogleConfigOverlay GoogleWebViewOverlay
+ Enable smart battery
+ Show swipe up gesture option
+ Import Pixel Sounds
+ Import settings overlay
+ Import Telephony/Telecomm/SettingsProvider/SystemUI overlays
+ Import settings overlays from SettingsGoogle
+ Set pixel accent color
+ LiveDisplaySettings: Hide Reading Mode if wellbeing app is enabled
+ Updated Icons In AtomSettings
+ Added Atom Bootanimation
+ Fixed MineCraft FOD 
+ Added ColorBucket
