@@ -1,0 +1,77 @@
+===========================================
+ROM Changelogs -
+===========================================
+• Add new FOD pressed state icons
+• Update OP FOD icon from OnePlus 8 Pro
+• Wired/BT headset: make ringtone audio focus customizable
+• StitchImageUtility: Fix editor on multi user
+• QS header: Update and style edit strings
+• Drag Handle Rework
+• Blur behind powermenu
+• SystemUI: add qs powershare tile
+• Re enable slashes on qs tiles
+• Fix freeform window moving/resizing doesn't work
+• Use Panel intents for WiFi and NFC
+• Enable double tap to wake on doze by default
+• Use wireless charging animation for wired charging too
+• Adjust QS tile background and icon color
+• Introduce PackageManagerUtils class
+• SystemUI: add qs AOD tile
+• Fix battery light toggle on multiple users
+• Add fonts for customization and set Google Sans as default
+• Import background, user icon and system colors from Pixel
+• Import PixelConfigOverlay* GoogleConfigOverlay GoogleWebViewOverlay
+• Enable smart battery
+• Show swipe up gesture option
+• Import Pixel Sounds
+• Import settings overlay
+• Import Telephony/Telecomm/SettingsProvider/SystemUI overlays
+• Import settings overlays from SettingsGoogle
+• Set pixel accent color
+• LiveDisplaySettings: Hide Reading Mode if wellbeing app is enabled
+• Updated Icons In AtomSettings
+• Added Atom Bootanimation
+• Fixed MineCraft FOD 
+• Added ColorBucket
+• Protect sensitive info on About device
+• Move Buttons To AtomSettings
+• Make AtomSettings Dashboard icon Follow Accent Color
+• Fix battery light toggle on multiple users
+• PowerManager: Move custom API definition to end of AIDL 
+• AODTile: Explicitely disable long clicks 
+• AODTile: disable tile when power save mode is on
+• Add Atom FOD icons
+• Use wireless charging animation for wired charging too
+• Increase Zenmode max hour limit from 12 to 24
+• Volume panel: avoid multiple animations on touch spam
+• Enable double tap to wake on doze by default
+• Use Panel intents for WiFi and NFC
+• Fix freeform window moving/resizing doesn't work 
+• Re-enable slashes on qs tiles 
+• ViewConfiguration: Set scroll friction to 0.012
+• ReadingModeTile: Go away if wellbeing app is enabled
+===========================================
+Device Changelogs -
+===========================================
+• Rebase device tree
+• Add 2 instance support for record_24
+• auto-power-save. Make the UI smoother
+• Update to Coral's build fingerprint [May Sec patch FP]
+• regen spectrum!
+• Overlays for devices specific 'Intelligent Profile' 
+• Enable power save offload to wifi
+• Mics Changes and Improvements
+===========================================
+Kernel Changelogs - 
+===========================================
+• Based On Rad HMP 4.3
+• NewCamera Blobs
+• Merged Linux v4.4.223
+• Common TouchPanel interface for Double tap to wake
+• Added dt2w node for synaptics_dsx_e7s and nvt_touch_e7s
+• Adjusted LED configuration
+• Now should fixed LED and dt2w in common trees
+===========================================
+* Thanks for using AtomOS!
+* Official community group: @atomosofficial
+* Official news channel: @atomosnews
