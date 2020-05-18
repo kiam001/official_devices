@@ -17,8 +17,8 @@
          }
       ]
    },
-    {
-	   
+   {
+
       "name":"Xiaomi Redmi Note 8/8T",
       "brand":"Xiaomi",
       "codename":"ginkgo/willow",
@@ -151,6 +151,23 @@
          {
             "cpu":"Snapdragon 625",
             "ram":"2/3/4GB"
+         }
+      ]
+   },
+   {
+      "name":"Asus Max M1",
+      "brand":"Asus",
+      "codename":"X00P",
+      "maintainer_name":"Saalim",
+      "maintainer_url":"https://github.com/iamsaalim",
+      "xda_thread":"",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 430",
+            "ram":"3GB"
          }
       ]
    }
