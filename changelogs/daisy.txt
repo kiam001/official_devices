@@ -1,5 +1,8 @@
-* Change kernel (Kerminator -> Reborn)
-* Fixed FPC Fingerprint bug (CPU sometimes work on 100%)
+* AtomOS 2.6.4
+* SELinux : Enforce
+* Updated kernel (4.9.224)
+* Changed device tree for fix bugs (thanks https://github.com/acras01 for files)
+* Change stock camera: Snap > MIUI Camera (1080p 60fps videorecord with bugs, temporary don't use this mode. Fixing)
 * Mics changes and improvement
 * NOTE: If you get any bugs after update, please do wipe data/factory reset.
 * -----
