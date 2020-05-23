@@ -170,6 +170,23 @@
             "ram":"3GB"
          }
       ]
+   },
+   {
+      "name":"Xiaomi Redmi Note 7",
+      "brand":"Xiaomi",
+      "codename":"lavender",
+      "maintainer_name":"Sakthivel",
+      "maintainer_url":"https://github.com/SparXFusion",
+      "xda_thread":"https://forum.xda-developers.com/redmi-note-7/development/rom-atomos-2-6-3-t4096833",
+      "supported_version":[
+         "ten"
+      ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 660",
+            "ram":"3GB"
+         }
+      ]
    }
  ]
 
