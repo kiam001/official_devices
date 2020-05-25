@@ -1,0 +1,4 @@
+fix somthing
+bump to Atom 2.6.4
+ui dont crash anymore
+for more info look atom news on telegram
